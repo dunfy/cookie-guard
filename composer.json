@@ -1,5 +1,5 @@
 {
-    "name": "lukapeharda/cookie-guard",
+    "name": "dunfy/cookie-guard",
     "description": "Provides authorization from cookie token.",
     "license": "MIT",
     "keywords": ["laravel", "passport", "guard", "cookie"],
